@@ -3,7 +3,7 @@
 🚀 Data Scientist | Machine Learning | Generative AI | RAG Systems  
 
 ## 📂 Featured Projects  
-🔹 **[Multimodal RAG: Chat with PDFs (Images & Tables)]([https://github.com/your-repo-link](https://github.com/singh-priyanshu20/Multimodal-RAG-Chat-with-PDFs-Images-Tables-))**  
+🔹 **[Multimodal RAG: Chat with PDFs (Images & Tables)](https://github.com/singh-priyanshu20/Multimodal-RAG-Chat-with-PDFs-Images-Tables-)**  
    - Developed an AI-powered document query system using **LangChain & GPT-4 Vision**.  
    - Improved document parsing accuracy by **15%** with **Unstructured Library**.  
    - Optimized RAG framework for better contextual relevance (**+12%**).
@@ -13,7 +13,7 @@
    - Utilized **Python, PyMuPDF, Sentence-Transformers, FAISS, OpenAI GPT-4** for document processing and retrieval.  
    - Implemented a **custom embedding-based retrieval mechanism** for enhanced query responses.  
 
-🔹 **[Object Detection in Aerial Thermal Infrared Videos]([https://github.com/your-repo-link](https://github.com/singh-priyanshu20/Object_Detection_And_Tracking_Of_Animals))**  
+🔹 **[Object Detection in Aerial Thermal Infrared Videos](https://github.com/singh-priyanshu20/Object_Detection_And_Tracking_Of_Animals)**  
    - Implemented **Faster R-CNN & YOLO** for detecting objects in thermal videos.  
    - Achieved **high-precision detection** with **mAP & IoU evaluations**.  
    - Applications: **Military surveillance, Wildlife monitoring, Disaster management**.  
